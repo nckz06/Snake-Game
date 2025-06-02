@@ -1,3 +1,3 @@
 <h1>Snake Game</h1>
 <p>O objetivo foi recriar o clássico jogo da cobrinha utilizando HTML, CSS e JavaScript. O HTML foi redirecionado para o desenvolvimento da estrutura que recebe o jogo, tendo um foco principal na utilização da tag <code>&#60;canvas&#62;</code>; o CSS foi utilizado para acrescentar uma estética mais agradável para a página e para os elementos pertencentes ao jogo; e o JavaScript foi utilizado para desenvolver a movimentação da cobrinha dentro da tag <code>&#60;canvas&#62;</code>, acrescentar um campo dinâmico para atualização da pontuação do jogador, um botão para reinicialização do jogo e uma função para salvar a última pontuação do jogador.</p>
-<small>Teste você mesmo: <a href="https://nckz06.github.io/Snake-Game/">https://nckz06.github.io/Snake-Game/</a></small>
+<small>Teste você mesmo: <a href="https://nckz06.github.io/Snake-Game/" target="_blank">https://nckz06.github.io/Snake-Game/</a></small>
